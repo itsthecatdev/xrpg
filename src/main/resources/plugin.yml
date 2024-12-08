@@ -1,0 +1,6 @@
+name: xRpg
+version: '0.1-ALPHA'
+main: me.chancy.xRpg.XRpg
+api-version: '1.21'
+authors: [ Chancy ]
+description: Rpg plugin

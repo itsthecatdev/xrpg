@@ -1,0 +1,12 @@
+#nexo:platinum_ore:
+#  hit_count: 12
+#  level_requirement: 10
+#  minimum_pickaxe: nexo:custom_pickaxe
+diamond_ore:
+  hit_count: 7
+  mining_level_requirement: 5
+  minimum_pickaxe: diamond_pickaxe
+gold_ore:
+  hit_count: 5
+  mining_level_requirement: 3
+  minimum_pickaxe: iron_pickaxe
