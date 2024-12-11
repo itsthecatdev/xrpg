@@ -4,3 +4,7 @@ main: me.chancy.xRpg.XRpg
 api-version: '1.21'
 authors: [ Chancy ]
 description: Rpg plugin
+commands:
+  xrpg:
+    description: XRpg management commands
+    usage: /xrpg give <block>

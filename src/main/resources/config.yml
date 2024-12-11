@@ -2,11 +2,29 @@
 #  hit_count: 12
 #  level_requirement: 10
 #  minimum_pickaxe: nexo:custom_pickaxe
+nexo:coal_ore:
+  hit_count: 2
+  mining_level_requirement: 4
+  minimum_pickaxe: wooden_pickaxe
+  drops:
+    "minecraft:coal_ore":
+      chance: 0.8
+      min_amount: 1
+      max_amount: 3
+    "minecraft:charcoal":
+      chance: 0.2
+      min_amount: 1
+      max_amount: 2
 diamond_ore:
-  hit_count: 7
-  mining_level_requirement: 5
-  minimum_pickaxe: diamond_pickaxe
-gold_ore:
-  hit_count: 5
-  mining_level_requirement: 3
-  minimum_pickaxe: iron_pickaxe
+  hit_count: 2
+  mining_level_requirement: 4
+  minimum_pickaxe: wooden_pickaxe
+  drops:
+    "minecraft:coal_ore":
+      chance: 0.8
+      min_amount: 1
+      max_amount: 3
+    "minecraft:charcoal":
+      chance: 0.2
+      min_amount: 1
+      max_amount: 2
